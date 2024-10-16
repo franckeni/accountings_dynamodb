@@ -3,7 +3,7 @@
 
 ## Install project
 python -m venv .venv
-source .venv/bin/activate
-poetry install
-
 #
+source .venv/bin/activate
+#
+poetry install
